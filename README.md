@@ -883,6 +883,6 @@ They went to sea in a bowl,
 And if the bowl had been stronger
 My song would have been longer.
 
-# Hi, everyone! My name is Stas
+# Hi, everyone! My name is Stas.
 I'm glad to join the course
 ![cat](http://www.kotomania.com/data/612.jpg)
